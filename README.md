@@ -27,4 +27,4 @@ Other: Git, GitHub, VS Code
 [LinkedIn](https://www.linkedin.com/in/abel-antonio-aguilar-aguirre-148773221)
  
 
-Email: (add your email)
+ulysses.aguilar.aguirre@gmail.com
